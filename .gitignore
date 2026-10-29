@@ -1,0 +1,4 @@
+data/
+*.sqlite
+.vscode/
+.DS_Store
